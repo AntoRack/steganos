@@ -12,7 +12,7 @@ This Android application allows to hide a message or a file inside a video using
 ## Installation
 Clone the project:
 ```
-git clone https://github.com/tassoneroberto/steganos.git
+git clone https://github.com/AntoRack/steganos.git
 
 ```
 Open it in Android Studio and run it.
